@@ -66,10 +66,24 @@ Investigate data sets and summarize their main characteristics, often employing 
 
 40 year olds spend the most money in the mall
 
-* D) ratio of male to female customers
+* D) annual income of the customers with respect to their Ages
+
+![image](https://user-images.githubusercontent.com/91218998/225909273-6422c3eb-8f22-412c-b2de-bc9a28049dcc.png)
+
+
+* E) ratio of male to female customers
 
 ![image](https://user-images.githubusercontent.com/91218998/225895332-18ba4760-5fb6-48c9-bb9a-7951debc14aa.png)
 
+![image](https://user-images.githubusercontent.com/91218998/225909393-bbfef5dd-aba5-4662-9337-4e6c388e5e7f.png)
+
+* F) general cluster graph
+
+![image](https://user-images.githubusercontent.com/91218998/225909627-3b58a58c-4396-4e65-b722-0cd373c3a9dd.png)
+
+* G) age of the customers
+
+![image](https://user-images.githubusercontent.com/91218998/225909806-072603f6-0947-40fa-9fa9-3effa2e85fee.png)
 
 ### ✏️ this is just the tip of the iceburg many more insights like annual income of the customers with respect to their Ages are extracted in mail_analysis_and_model_selection.ipynb i highly reccomond you read it and find for yourself.
 
