@@ -104,7 +104,7 @@ Model comparison involves comparing the performance of different models on a giv
 
 # 2) customer_classifier.pyw
 
-# 🪟 inputs and outputs of main_fake_news_predictor.py 
+# 🪟 inputs and outputs of customer_classifier.pyw 
 
 ### i would reccomond you watch the demo_video attached in the files as it would give you a clear image on what the project looks like but here are some Screenshots of the GUI
 
