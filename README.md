@@ -154,7 +154,7 @@ after analysing the data and training the model these insights have been extract
 * cluster 3 - orange - "broke shopoholics" - these customers have an AI of 0-40k but an SS of 60-100 (they are broke but spend a lot money)
 * cluster 4 - blue - "broke savers" - these customers have an AI of 0-40k and SS of 0-40 (they dont earn as much and are not intrested)
 
- 	🖍️ many more insights have been done in the 
+ 	🖍️ many more insights have been done in the mail_analysis_and_model_selection.ipynb
 
 # ⛔ Limitations
 
