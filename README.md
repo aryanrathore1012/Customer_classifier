@@ -68,8 +68,7 @@ Investigate data sets and summarize their main characteristics, often employing 
 
 * D) annual income of the customers with respect to their Ages
 
-![image](https://user-images.githubusercontent.com/91218998/225909273-6422c3eb-8f22-412c-b2de-bc9a28049dcc.png)
-
+![image](https://user-images.githubusercontent.com/91218998/225910100-a80b3fb7-3606-43a2-aaf4-05bb1e9236b1.png)
 
 * E) ratio of male to female customers
 
