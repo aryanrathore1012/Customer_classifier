@@ -2,6 +2,8 @@
 
 a project that uses kmeans clustering algorithm to divide customers into 5 groups, so that better financial descions can be made
 
+CHECK DEMO_VIDEO TO SEE THE OUTPUTS AND READ THE HUPYTER NOTEBOOK FOR MORE INFO
+
 # 💡need for the model
 
 the mall in the dataset wants to make better financial descions and offer better deals to their customers. to do this they want to "know" their customers more. this project classfies customers into five groups on the basis of their annual income and spending score
